@@ -6,6 +6,11 @@ namespace mynamespace
         public String Name{get;set;}
 
         public String Period{get;set;}
+
+        public String Periodii{get;set;}
+
+
+
     }
 
 }
